@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Gill Sans';
+    background-color: #f5e8ba;
+    text-align: center;
+}
+
+h2{
+    color: darkgreen;
+}
+
+#msg{
+    margin-bottom: 1em;
+
+}
+
+#gameBoard{
+    border: 3px solid;
+
+}
+
+#score{
+    margin-top: 1em;
+}
